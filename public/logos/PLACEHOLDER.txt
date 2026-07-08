@@ -1,0 +1,15 @@
+This directory is reserved for your high-resolution original brand partner logos. 
+Please upload your exact logo files here!
+
+Supported file formats:
+- sarvin.png (or .jpg, .jpeg)
+- geolife.png (or .jpg, .jpeg)
+- hifield.png (or .jpg, .jpeg)
+- titan.png (or .jpg, .jpeg)
+- aries.png (or .jpg, .jpeg)
+- shurbans.png (or .jpg, .jpeg)
+- kaybee.png (or .jpg, .jpeg)
+- exylon.png (or .jpg, .jpeg)
+- katra.png (or .jpg, .jpeg)
+
+The website is fully configured to instantly display your uploaded files from this folder exactly as they are, with zero alterations.

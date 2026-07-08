@@ -1,0 +1,6 @@
+{
+  "name": "Kisan4U",
+  "description": "Premium Agri-Tech Digital Agriculture Platform connecting farmers, technology, markets, and opportunities through a digital ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

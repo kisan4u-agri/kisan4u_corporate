@@ -1,0 +1,6 @@
+This is the dedicated folder for the Kisan4U Media Gallery.
+
+You can drag and drop your 37 images into this folder:
+- File names should be: 1.jpg, 2.jpg, 3.jpg, ..., 37.jpg
+- They will be served in the application at the path: /gallery/1.jpg, /gallery/2.jpg, etc.
+- The gallery will automatically pick these up and present them with beautiful captions and categories!
